@@ -1,2 +1,2 @@
 # bbs2gh-image
-Docker image with bbs2gh extension
+Dockerfile to create an image based on alpine with bbs2gh extension installed
